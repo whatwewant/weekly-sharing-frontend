@@ -7,6 +7,10 @@
 
 ![](./images/WeChat-QRCode.png)
 
+### [#003 - 开箱即用、跨浏览器的扩展开发框架 extension.js（2024.05.14）](./003%20-%202024.05.14.md)
+
+> extension.js - 开箱即用、跨浏览器的扩展开发框架；shiki - 丝滑的代码块变化动画；uikit - 基于 three.js 的 3D 组件库；Awesome React - React 生态系统资源集合；前端开发中大并发量如何控制并发数
+
 ### [#002 - 基于 React 的企业级移动端 UI 组件库 Zarm（2024.05.06）](./002%20-%202024.05.06.md)
 
 > Zarm - 基于 React 的企业级移动端 UI 组件库；UnoCssUi - 基于 UnoCSS 的组件库；Open-Resume - 一款功能强大的开源简历生成器和简历解析器；Dokploy - 开源版Vercel，应用云托管PaaS平台；TypeScript v5.5 Beta 发布
