@@ -7,6 +7,10 @@
 
 ![](./images/WeChat-QRCode.png)
 
+### [#004 - 开源封面设计工具 IMaker（2024.05.21）](./004%20-%202024.05.21.md)
+
+> Mikro ORM - 基于 TypeScript 的 Node.js ORM 框架，TypeORM 的替代品；Imaker - 开源封面设计工具；QR code designer - QRCode 设计工具；Shadcn UI - 开源前端组件库；Execa v9 大版本发布，支持操作 Pipe；蚂蚁的 Rust 构建器 Mako 内测了
+
 ### [#003 - 开箱即用、跨浏览器的扩展开发框架 extension.js（2024.05.14）](./003%20-%202024.05.14.md)
 
 > extension.js - 开箱即用、跨浏览器的扩展开发框架；shiki - 丝滑的代码块变化动画；uikit - 基于 three.js 的 3D 组件库；Awesome React - React 生态系统资源集合；前端开发中大并发量如何控制并发数
