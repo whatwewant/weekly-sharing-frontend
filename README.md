@@ -7,6 +7,10 @@
 
 ![](./images/WeChat-QRCode.png)
 
+### [#005 - React Compiler 来啦（2024.05.28）](./005%20-%202024.05.28.md)
+
+> PicGo - 一个简单而美观的图片上传工具；React JSON View Lite - 轻量级 JSON 可视化组件；React Compiler 来啦；浏览器节能机制导致 WebSocket 断连的巨坑
+
 ### [#004 - 开源封面设计工具 IMaker（2024.05.21）](./004%20-%202024.05.21.md)
 
 > Mikro ORM - 基于 TypeScript 的 Node.js ORM 框架，TypeORM 的替代品；Imaker - 开源封面设计工具；QR code designer - QRCode 设计工具；Shadcn UI - 开源前端组件库；Execa v9 大版本发布，支持操作 Pipe；蚂蚁的 Rust 构建器 Mako 内测了
