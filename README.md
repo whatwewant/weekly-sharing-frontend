@@ -7,9 +7,13 @@
 
 ![](./images/WeChat-QRCode.png)
 
+### [#006 - 免费搭建临时邮箱服务（2024.06.04）](./006%20-%202024.06.04.md)
+
+> Uppy - 易于集成的 JavaScript 文件上传组件；Papermark - 开源的文件分享平台；Cloudflare Temp Email - 免费搭建临时邮箱服务；forwardRef 被 React 19 无情抛弃；深入剖析 Promise.withResolver
+
 ### [#005 - React Compiler 来啦（2024.05.28）](./005%20-%202024.05.28.md)
 
-> PicGo - 一个简单而美观的图片上传工具；React JSON View Lite - 轻量级 JSON 可视化组件；React Compiler 来啦；浏览器节能机制导致 WebSocket 断连的巨坑
+> PicGo - 一个简单而美观的图片上传工具；React JSON View Lite - 轻量级 JSON 可视化组件；Handsontable - 类 Excel Web 实现；React Compiler 来啦；浏览器节能机制导致 WebSocket 断连的巨坑
 
 ### [#004 - 开源封面设计工具 IMaker（2024.05.21）](./004%20-%202024.05.21.md)
 
